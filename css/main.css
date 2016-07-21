@@ -1,0 +1,88 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,700';
+
+@font-face{
+	font-family: BigJohn;
+	font-weight: 700;
+	src: url('../fonts/BigJohn.otf') format('opentype');
+}
+
+@font-face{
+	font-family: SlimJoe;
+	font-weight: 300;
+	src: url('../fonts/SlimJoe.otf') format('opentype');
+}
+
+body{
+	background: #232830;
+	font-family: 'Lato', sans-serif;
+	color: #FFFFFF;
+}
+
+p {
+	font-weight: 300;
+}
+
+a {
+	background-color: #F11E56;
+	color: #FFFFFF;
+	padding: 10px 10px;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.btn-portafolio{
+	text-align: right;
+}
+
+.font-light{
+	font-weight: 300;
+}
+
+.font-bold{
+	font-weight: 700;
+}
+
+.margen-top{
+	margin-top: 10px;
+}
+
+.max-ancho{
+	max-width: 150px;
+}
+
+.inline-block{
+	float: none;
+	display: inline-block;
+}
+
+.float-right{
+	float: right;
+}
+
+.align-top{
+	vertical-align: top;
+}
+
+.padding{
+	padding-top: 50px;
+}
+
+#img-perfil {
+	margin-top: 20px;
+}
+
+#navbar{
+	margin-top: 20px;
+}
+
+/*
+h1 { 
+	font-family: 'Lato', Arial, serif; 
+	font-weight: 300; 
+}
+*/
