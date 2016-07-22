@@ -72,6 +72,16 @@ a:link {
 	padding-top: 50px;
 }
 
+#logo-navbar{
+	background-color: #F11E56;
+	color: #FFFFFF;
+	font-size: 1em;
+	padding: 10px 10px;
+	height: auto;
+	border-radius: 5px;
+	vertical-align: middle;
+}
+
 #img-perfil {
 	margin-top: 20px;
 }
