@@ -29,6 +29,7 @@ a {
 	border-radius: 5px;
 	margin-left: 10px;
 	margin-right: 10px;
+	float: top;
 }
 
 a:link {
@@ -48,7 +49,7 @@ a:link {
 }
 
 .margen-top{
-	margin-top: 10px;
+	margin-top: 50px;
 }
 
 .max-ancho{
@@ -80,6 +81,7 @@ a:link {
 	height: auto;
 	border-radius: 5px;
 	vertical-align: middle;
+	margin-top: 5px;
 }
 
 #img-perfil {
