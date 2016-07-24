@@ -3,12 +3,12 @@
 body{
 	font-family: 'Lato', sans-serif;
 	padding-top: 50px;
-  	padding-bottom: 20px;
 }
 
 div{
 	font-weight: 300;
 }
+
 
 div div h2{
 	height: 66px;
@@ -19,7 +19,23 @@ div div h2{
 div div img{
 	width: 50%;
 	margin: 0 auto;
-	margin-bottom: 10px;
+	margin-bottom: 20px;
+}
+div div div div h1{
+	margin-bottom: 40px;
+}
+
+div div div div img{
+	width: 30%;
+	margin: 0 auto;
+	margin-bottom: 20px;
+}
+
+
+footer{
+	background: #232830;
+	color: #FFFFFF;
+	margin-top: 40px;
 }
 
 .jumbotron{
@@ -29,9 +45,17 @@ div div img{
 	padding-bottom: 20px;
 }
 
+.jumbotron p{
+	margin: 0px;
+}
+
 .img-max-ancho{
 	width: 20%;
 	align: center;
+}
+
+#about{
+	margin-right: 20px;
 }
 
 #navbar-header{
@@ -52,7 +76,16 @@ div div img{
 	color: #FFFFFF;
 	height: auto;
 	padding: 8px 8px;
-	margin-left: 15px;
+	margin-left: 20px;
 	border-radius: 5px;
 	margin-top: 7px;
+}
+
+#map{
+	font-size: 20px;
+	margin-right: 8px;
+}
+
+#nav-button{
+	margin-right: 20px;
 }
