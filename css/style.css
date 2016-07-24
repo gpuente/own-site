@@ -1,0 +1,58 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:300,400,700';
+
+body{
+	font-family: 'Lato', sans-serif;
+	padding-top: 50px;
+  	padding-bottom: 20px;
+}
+
+div{
+	font-weight: 300;
+}
+
+div div h2{
+	height: 66px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+div div img{
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.jumbotron{
+	background: #232830;
+	color: #FFFFFF;
+	padding: 0px 0px;
+	padding-bottom: 20px;
+}
+
+.img-max-ancho{
+	width: 20%;
+	align: center;
+}
+
+#navbar-header{
+	margin: 0px;
+}
+
+#cont-navbar{
+	padding: 0px;
+	width: 100%
+}
+
+#navbar{
+	margin: 0px;
+}
+
+#logo-navbar{
+	background-color: #F11E56;
+	color: #FFFFFF;
+	height: auto;
+	padding: 8px 8px;
+	margin-left: 15px;
+	border-radius: 5px;
+	margin-top: 7px;
+}
