@@ -42,7 +42,7 @@ footer{
 	background: #232830;
 	color: #FFFFFF;
 	padding: 0px 0px;
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 
 .jumbotron p{
@@ -88,4 +88,22 @@ footer{
 
 #nav-button{
 	margin-right: 20px;
+}
+
+.delay01{
+	-webkit-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+	animation-delay: 0.5s;
+}
+
+.delay02{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+.delay03{
+	-webkit-animation-delay: 1.5s;
+	-moz-animation-delay: 1.5s;
+	animation-delay: 1.5s;
 }
