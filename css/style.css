@@ -5,6 +5,17 @@ body{
 	padding-top: 50px;
 }
 
+header{
+	background: url(../img/backwall.jpg) no-repeat center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	width: 100% ;
+	text-align: center;
+}
+
 div{
 	font-weight: 300;
 }
@@ -26,7 +37,7 @@ div div div div h1{
 }
 
 div div div div img{
-	width: 30%;
+	width: 25%;
 	margin: 0 auto;
 	margin-bottom: 20px;
 }
@@ -36,17 +47,34 @@ footer{
 	background: #232830;
 	color: #FFFFFF;
 	margin-top: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
+footer div p{
+	margin: 0;
+}
+
+footer div p a{
+	margin-right: 5px;
+}
+
+
 .jumbotron{
-	background: #232830;
+	/*background: #232830;*/
 	color: #FFFFFF;
 	padding: 0px 0px;
 	padding-bottom: 50px;
+	background-color: transparent;
+	padding-bottom: 150px;
 }
 
 .jumbotron p{
 	margin: 0px;
+}
+
+.jumbotron h1{
+	color: #333;
 }
 
 .img-max-ancho{
@@ -106,4 +134,20 @@ footer{
 	-webkit-animation-delay: 1.5s;
 	-moz-animation-delay: 1.5s;
 	animation-delay: 1.5s;
+}
+
+.img-max-wd{
+	max-width: 180px;
+}
+
+.width{
+	width: 25px;
+}
+
+.size-icon{
+	font-size: 30px;
+}
+
+.margin-top{
+	margin-top: 5px;
 }
