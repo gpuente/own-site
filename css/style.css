@@ -151,3 +151,17 @@ footer div p a{
 .margin-top{
 	margin-top: 5px;
 }
+
+.max-width{
+	margin: 0 auto;
+	max-width: 800px;
+	text-align: justify;
+}
+
+.margin-top-img{
+	margin-top: 40px;
+}
+
+#screenshot{
+	width: 100%;
+}
