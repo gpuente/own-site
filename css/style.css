@@ -162,6 +162,10 @@ footer div p a{
 	margin-top: 40px;
 }
 
+.navbar{
+	background-color: #000;
+}
+
 #screenshot{
 	width: 100%;
 }
